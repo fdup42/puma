@@ -1,5 +1,5 @@
 # puma
-Calcul des cotisation CSM par l'URSSAF
+Calcul des cotisations CSM par l'URSSAF
 
 ces 2 fichiers contiennent le code source servant à calculer la cotisation CSM définie dans la loi PUMA pour les années 2018 et 2019.
 Voir https://www.urssaf.fr/portail/home/espaces-dedies/beneficiaire-de-la-puma.html pour plus d'information.
